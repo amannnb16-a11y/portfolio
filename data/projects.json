@@ -25,10 +25,10 @@
       "title": "Project 2 — Anime Battlegrounds",
       
       "gameTag": "Roblox",
-      "thumbnailUrl": "assets/project2.png",
+      "thumbnailUrl": "assets/project2.webp",
       "kpis": [
         { "name": "CTR (%)", "before": 1.4, "after": 2.2 },
-        { "name": "Concurrent Players", "before": 980, "after": 1120 },
+        { "name": "Average Revenue per paying user", "before": 980, "after": 1120 },
         { "name": "Engagements", "before": 54000, "after": 60200 }
       ],
       "timeSeries": {
