@@ -35,8 +35,8 @@
         "labels": ["Before", "After"],
         "series": {
           "CTR (%)": [4.04,8.20],
-          "Average Revenue per paying user": [94.08,109.10],
-          "Average playtime": [16.03,19.24]
+          "Average Revenue per paying user": [94.08,108.10],
+          "Average playtime": [16.03,18.24]
         }
       }
     },
