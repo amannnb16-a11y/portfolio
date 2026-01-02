@@ -94,7 +94,7 @@ function renderProjects() {
       <div class="project-top">
         <div>
           <h3 class="project-title">${escapeHtml(p.title)}</h3>
-          <p class="project-meta">${escapeHtml(p.meta || "")}</p>
+          
         </div>
         <span class="tag">${escapeHtml(p.gameTag || "")}</span>
       </div>
