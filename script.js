@@ -47,16 +47,11 @@ function renderKpiRow(k) {
 
   let deltaText = "—";
   if (typeof before === "number" && typeof after === "number") {
-    if (isPercentKpi(name)) {
-      const abs = after - before;
-      const sign = abs > 0 ? "+" : "";
-      deltaText = `${d.arrow} ${sign}${abs.toFixed(2)}`;
-    } else {
-      const pct = d.pct ?? 0;
-      const sign = pct > 0 ? "+" : "";
-      deltaText = `${d.arrow} ${sign}${pct.toFixed(1)}%`;
-    }
-  }
+  const pct = d.pct ?? 0;
+  const sign = pct > 0 ? "+" : "";
+  deltaText = `${d.arrow} ${sign}${pct.toFixed(1)}%`;
+}
+
 
   return `
     <tr>
