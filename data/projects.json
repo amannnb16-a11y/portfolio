@@ -5,7 +5,7 @@
       "title": "Anomaly - Escape Room",
       
       "gameTag": "Roblox",
-      "thumbnailUrl": "assets/project1.png",
+      "thumbnailUrl": "assets/project1.webp",
       "kpis": [
         { "name": "CTR (%)", "before": 5.08, "after": 12.76 },
         { "name": "Average Revenue per paying user", "before": 66.6, "after": 71 },
