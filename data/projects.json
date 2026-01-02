@@ -3,7 +3,7 @@
     {
       "id": "p1",
       "title": "Anomaly - Escape Room",
-      "meta": "REMOVE",
+      
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project1.png",
       "kpis": [
@@ -23,7 +23,7 @@
     {
       "id": "p2",
       "title": "Project 2 — Anime Battlegrounds",
-      "meta": "Character focus + contrast rebuild",
+      
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project2.png",
       "kpis": [
@@ -43,7 +43,7 @@
     {
       "id": "p3",
       "title": "Project 3 — Cozy Café Simulator",
-      "meta": "Friendly vibe + readability improvements",
+      
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project3.png",
       "kpis": [
