@@ -2,13 +2,13 @@
   "projects": [
     {
       "id": "p1",
-      "title": "Project 1 — Horror Tycoon",
-      "meta": "New thumbnail + typography pass",
+      "title": "Anomaly - Escape Room",
+      "meta": "REMOVE",
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project1.png",
       "kpis": [
-        { "name": "CTR (%)", "before": 2.1, "after": 3.6 },
-        { "name": "Concurrent Players", "before": 420, "after": 710 },
+        { "name": "CTR (%)", "before": 5.08, "after": 12.76 },
+        { "name": "Average Revenue per paying user", "before": 66.6, "after": 71 },
         { "name": "Engagements", "before": 12000, "after": 19800 }
       ],
       "timeSeries": {
