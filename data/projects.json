@@ -29,7 +29,7 @@
       "kpis": [
         { "name": "CTR (%)", "before": 1.4, "after": 2.2 },
         { "name": "Average Revenue per paying user", "before": 980, "after": 1120 },
-        { "name": "Engagements", "before": 54000, "after": 60200 }
+        { "name": "Average playtime", "before": 54000, "after": 60200 }
       ],
       "timeSeries": {
         "labels": ["Before", "After"],
