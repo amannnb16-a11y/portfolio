@@ -16,47 +16,47 @@
         "series": {
           "CTR (%)": [5.08,12.76],
           "Average Revenue per paying user": [66.6,71],
-          "Engagements": [11800, 12100, 12000, 15000, 17100, 18900, 19800]
+          "Average playtime": [17.6,18.6]
         }
       }
     },
     {
       "id": "p2",
-      "title": "Project 2 — Anime Battlegrounds",
+      "title": "Client 2 — Quantum Clash",
       
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project2.webp",
       "kpis": [
-        { "name": "CTR (%)", "before": 1.4, "after": 2.2 },
-        { "name": "Average Revenue per paying user", "before": 980, "after": 1120 },
-        { "name": "Average playtime", "before": 54000, "after": 60200 }
+        { "name": "CTR (%)", "before": 4.04, "after": 8.20 },
+        { "name": "Average Revenue per paying user", "before": 94.08, "after": 109.10 },
+        { "name": "Average playtime", "before": 16.03, "after": 19.24 }
       ],
       "timeSeries": {
         "labels": ["Before", "After"],
         "series": {
-          "CTR (%)": [1.3, 1.4, 1.5, 1.4, 1.8, 2.0, 2.1, 2.2],
-          "Concurrent Players": [960, 990, 1000, 980, 1040, 1080, 1100, 1120],
-          "Engagements": [53000, 54500, 55000, 54000, 56500, 58000, 59200, 60200]
+          "CTR (%)": [4.04,8.20],
+          "Average Revenue per paying user": [94.08,109.10],
+          "Average playtime": [16.03,19.24]
         }
       }
     },
     {
       "id": "p3",
-      "title": "Project 3 — Cozy Café Simulator",
+      "title": "Client 3 — Police Simulator",
       
       "gameTag": "Roblox",
-      "thumbnailUrl": "assets/project3.png",
+      "thumbnailUrl": "assets/project3.webp",
       "kpis": [
-        { "name": "CTR (%)", "before": 3.0, "after": 3.9 },
-        { "name": "Concurrent Players", "before": 240, "after": 310 },
-        { "name": "Engagements", "before": 8200, "after": 10150 }
+        { "name": "CTR (%)", "before": 4.1, "after": 6.9 },
+        { "name": "Average Revenue per paying user", "before": 58.12, "after": 64.22 },
+        { "name": "Average playtime", "before": 28.4, "after": 32.2 }
       ],
       "timeSeries": {
         "labels": ["Before", "After"],
         "series": {
-          "CTR (%)": [2.9, 3.0, 3.4, 3.6, 3.8, 3.9],
-          "Concurrent Players": [235, 240, 265, 285, 300, 310],
-          "Engagements": [8100, 8200, 8900, 9400, 9850, 10150]
+          "CTR (%)": [4.1,6.9],
+          "Average Revenue per paying user": [58.12,64.22],
+          "Average playtime": [28.4,32.2]
         }
       }
     }
