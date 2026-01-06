@@ -27,8 +27,8 @@
       "gameTag": "Roblox",
       "thumbnailUrl": "assets/project2.webp",
       "kpis": [
-        { "name": "CTR (%)", "before": 4.04, "after": 8.20 },
-        { "name": "Average Revenue per paying user (robux)", "before": 94.08, "after": 108.10 },
+        { "name": "CTR (%)", "before": 4.04, "after": 6.78 },
+        { "name": "Average Revenue per paying user (robux)", "before": 54.08, "after": 77.10 },
         { "name": "Average playtime (min)", "before": 16.03, "after": 18.24 }
       ],
       "timeSeries": {
@@ -49,7 +49,7 @@
       "kpis": [
         { "name": "CTR (%)", "before": 4.1, "after": 6.9 },
         { "name": "Average Revenue per paying user (robux)", "before": 58.12, "after": 64.22 },
-        { "name": "Average playtime (min)", "before": 28.4, "after": 30.2 }
+        { "name": "Average playtime (min)", "before": 28.4, "after": 30.83 }
       ],
       "timeSeries": {
         "labels": ["Before", "After"],
